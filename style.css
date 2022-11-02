@@ -30,6 +30,10 @@ li {
     color: hsl(233, 8%, 79%);
 }
 
+a.trending {
+    color: hsl(233, 8%, 79%);
+}
+
 .trending:hover {
     color: hsl(35, 77%, 62%);
 }
