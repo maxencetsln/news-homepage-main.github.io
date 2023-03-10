@@ -45,4 +45,3 @@ openhamburger.addEventListener("click", () => {
 ## Author
 
 - GitHub Pages - [maxencetsln](https://github.com/maxencetsln)
-- Frontend Mentor - [@BikoiFr](https://www.frontendmentor.io/profile/BikoiFr)
